@@ -13,7 +13,6 @@ def summon_captain_planet(planeteer_calls)
   array.map {
     |element|
     element.capitalize
-    element + "!"
   }
 end
 
