@@ -34,7 +34,5 @@ def find_valid_calls(planeteer_calls)
     valid_calls.count {
       element = count
     }
-    |element|
-    element = 
   }
 end
